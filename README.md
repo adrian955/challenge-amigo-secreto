@@ -5,7 +5,7 @@ Se creó el código en JavaScript para:
 
 Añadir nombres a un arreglo 
 
-Mostrar el arreglo en pantalla con cada elemento agregado 
+Mostrar los elementos del arreglo en pantalla al agregarlos 
 
 Sortear un elemento de manera aleatoria
 
